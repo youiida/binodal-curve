@@ -1,7 +1,8 @@
-
 # Binodal Curve Calculation and Plotting
 
 This Python program calculates and plots the binodal and spinodal curves of a polymer solution using the Flory-Huggins theory of polymer solutions.
+
+![Phase Diagram](./phase_diagram.png)
 
 ## Features
 
